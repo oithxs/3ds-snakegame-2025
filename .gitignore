@@ -1,0 +1,11 @@
+*
+
+# Allow List
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!*.c
+!*.h
+!Makefile
+!.editorconfig
