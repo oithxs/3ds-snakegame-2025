@@ -1,7 +1,7 @@
 # 3ds-game-2025
 3DS Game in Kitayama Festival
 
-# Getting Started
+## Getting Started
 開発環境を構築するために以下の手順に従ってください。
 1. 開発キットである[DevKitPro](https://devkitpro.org/wiki/Getting_Started#Windows)をインストールしてください。
 1. 3DSエミュレータである[citra](https://citra-emulator.com/)をインストールしてください。
