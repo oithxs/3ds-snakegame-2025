@@ -5,10 +5,11 @@
 !.gitignore
 !.gitattributes
 !.editorconfig
+!.vscode/*
+!.devcontainer/*
 !README.md
 !LICENSE
 !Makefile
 !*.c
 !*.h
 !source/*
-!.devcontainer/*
