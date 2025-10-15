@@ -1,13 +1,14 @@
 *
+!*/
 
 # Allow List
 !.gitignore
 !.gitattributes
+!.editorconfig
 !README.md
 !LICENSE
-!source/*
+!Makefile
 !*.c
 !*.h
-!Makefile
-!.editorconfig
+!source/*
 !.devcontainer/*
