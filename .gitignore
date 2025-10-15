@@ -5,8 +5,9 @@
 !.gitattributes
 !README.md
 !LICENSE
-!source/
+!source/*
 !*.c
 !*.h
 !Makefile
 !.editorconfig
+!.devcontainer/*
