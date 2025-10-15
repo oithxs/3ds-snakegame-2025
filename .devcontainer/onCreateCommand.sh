@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo dkp-pacman -S 3ds-dev --noconfirm
+sudo dkp-pacman -Syu 3ds-dev
